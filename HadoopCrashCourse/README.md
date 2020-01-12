@@ -1,1 +1,1 @@
-# BigData
+# Hadoop Crash Course Practice Exercises
