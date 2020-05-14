@@ -1,0 +1,1 @@
+**Essential Spark exercises with Scala**
