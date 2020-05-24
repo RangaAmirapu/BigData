@@ -1,0 +1,1 @@
+**Spark streaming exercises with Scala**
